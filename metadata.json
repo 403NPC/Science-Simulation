@@ -1,0 +1,6 @@
+{
+  "name": "도플러 효과 물결파 시뮬레이터 (Doppler Wave Simulator)",
+  "description": "물결파의 위에서 본 평면도와 옆에서 본 단면도를 실시간으로 연동하여 마우스 클릭 수동 생성 및 일정한 속도로 움직이는 파원의 도플러 효과를 시각화하는 물리 시뮬레이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
